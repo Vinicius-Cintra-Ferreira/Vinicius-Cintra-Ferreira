@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/LucasCintra10">
+  <a href="https://github.com/Vinicius-Cintra-Ferreira">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vinicius-Cintra-Ferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinicius-Cintra-Ferreira&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
