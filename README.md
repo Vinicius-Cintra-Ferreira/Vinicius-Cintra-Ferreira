@@ -1,7 +1,5 @@
 <h2 id="header" align="center"> Vinicius Cintra | Front-End Developer <h2>
-  
----
-  
+
 <div align="center">
   <div id="techs">
     <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" alt="VueJS"/>
