@@ -4,8 +4,11 @@
   <a href="https://www.origamid.com/certificate/626c6810">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
+  <a href="https://www.origamid.com/certificate/7943baf3">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=js,vue,figma" />
+    <img src="https://skillicons.dev/icons?i=vue,figma" />
   </a>
 </p>
 
