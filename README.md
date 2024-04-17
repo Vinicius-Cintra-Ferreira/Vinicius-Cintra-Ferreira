@@ -4,7 +4,7 @@
   <a href="https://www.origamid.com/certificate/626c6810">
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,vue,figma" />
   </a>
 </p>
