@@ -5,7 +5,7 @@
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,vue,figma,postgle" />
+    <img src="https://skillicons.dev/icons?i=js,vue,figma" />
   </a>
 </p>
 
