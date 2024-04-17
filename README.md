@@ -1,12 +1,13 @@
 <h2 id="header" align="center"> Vinicius Cintra | Front-End Developer <h2>
-
-<div align="center">
-  <div id="techs">
-    <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg" alt="VueJS"/>
-    <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma"/>
-    <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript"/>
-  </div> 
-</div>
+  
+<p align="center">
+  <a href="https://www.origamid.com/certificate/626c6810">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,vue,figma,postgle" />
+  </a>
+</p>
 
 ---
 
@@ -17,7 +18,9 @@
 </div>
 
 ---
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-cf" target="_blanck">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
 
-  <div align="center"> 
-  <a href="https://www.linkedin.com/in/vinicius-cf" target="_blanck"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
