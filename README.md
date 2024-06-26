@@ -7,10 +7,10 @@
   <a href="https://www.origamid.com/certificate/7943baf3">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a>
+  <!--<a>
     <img src="https://skillicons.dev/icons?i=vue" />
   </a>
-  <!--<a href="https://vuetifyjs.com" target="_blank">
+  <a href="https://vuetifyjs.com" target="_blank">
     <img src="https://cdn.vuetifyjs.com/images/logos/logo.svg" width="50">
   </a>-->
   <a>
