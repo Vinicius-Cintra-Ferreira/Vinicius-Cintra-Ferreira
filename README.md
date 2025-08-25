@@ -14,7 +14,19 @@
     <img src="https://skillicons.dev/icons?i=vuetify" />
   </a>
   <a>
+    <img src="https://skillicons.dev/icons?i=pinia" />
+  </a>
+  <a>
     <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=sequelize" />
+  </a>
+    <a>
+    <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </p>
 
