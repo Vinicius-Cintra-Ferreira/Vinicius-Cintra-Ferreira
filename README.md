@@ -1,4 +1,4 @@
-<h2 id="header" align="center"> Vinicius Cintra | Front-End Developer <h2>
+<h2 id="header" align="center"> Vinicius Cintra | Full Stack Developer <h2>
   
 <p align="center">
   <a href="https://www.origamid.com/certificate/626c6810">
