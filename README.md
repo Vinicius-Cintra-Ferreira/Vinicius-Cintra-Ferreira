@@ -8,6 +8,9 @@
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
   <a>
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a>
     <img src="https://skillicons.dev/icons?i=vue" />
   </a>
   <a href="https://vuetifyjs.com" target="_blank">
@@ -25,7 +28,7 @@
   <a>
     <img src="https://skillicons.dev/icons?i=sequelize" />
   </a>
-    <a>
+  <a>
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </p>
